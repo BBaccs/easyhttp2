@@ -4,7 +4,6 @@
  *
  * @version 2.0.0
  * @author  Brian Baccarella
- * @license MIT
  *
  **/
 class EasyHTTP {
